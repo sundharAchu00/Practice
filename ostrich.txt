@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 "hello ostrich"
+=======
+"hello ostrich from b1 "
+
+>>>>>>> b1
