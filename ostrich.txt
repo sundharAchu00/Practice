@@ -4,3 +4,6 @@
 "hello ostrich from b1 "
 
 >>>>>>> b1
+"hello from b2"
+
+
